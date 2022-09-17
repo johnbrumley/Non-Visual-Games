@@ -28,10 +28,10 @@ twitter_username: johnbrumley
 github_username:  johnbrumley
 
 # Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+# theme: minimal-mistakes-jekyll
+# plugins:
+#   - jekyll-feed
+#   - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
